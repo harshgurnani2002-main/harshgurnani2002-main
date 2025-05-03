@@ -3,7 +3,7 @@
 ## 👀 I’m interested in ...
 - AI, machine learning, and deep learning technologies
 - Building scalable web applications using Django
-- Open-source contributions, especially in the tech stack I work with
+- Open-source contributions, especially in the AI and Web Development
 - Exploring the latest trends in technology and development
 
 ## 🌱 I’m currently learning ...
